@@ -1,6 +1,6 @@
  <h1 align="center"> Snake Game Pygame </h1>
  
- ![Badge de Concluido](https://img.shields.io/badge/status-concluido-green?style=for-the-badge)
+ ![Badge de Concluido](https://img.shields.io/badge/status-concluído-green?style=for-the-badge)
  ![Badge Licença](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
  
